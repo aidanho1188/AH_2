@@ -1,0 +1,11 @@
+
+public class Fun {
+public static void main(String[] args) 
+{
+	int r = 5;
+	int pi = 3.141593;
+	int volume = 4/3*pi*r*Math.sqrt(3);
+	print volume;
+
+}
+}
