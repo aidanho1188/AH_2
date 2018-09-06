@@ -1,4 +1,9 @@
+// _author_ = "Aidan"
+// Hello World program.
 
+// Object
+// 1. Action- ex. print
+// 2. Attibutes- ex. two = 2
 			
 public class Test {
 	// My name
